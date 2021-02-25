@@ -8,9 +8,7 @@
 <br/>
 <hr/>
 
-##### NOW
-
-- WIP...
+🧍 **[Blog](https://lucassdesouza0.github.io/me/)**
 
 <hr/>
 
