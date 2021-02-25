@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Developer working in Rio de Janeiro, Brasil.
+#### I'm a Software Developer working from Rio de Janeiro, Brasil.
 
   <a href="https://github.com/lucassdesouza0" target="_blank">  <img  alt="Github Lucas Santos" width="22px" src="https://github.com/lucassdesouza0/me/blob/main/src/assets/icons/github.svg" style="background: white; padding: 2px; border-radius: 20px; margin-right: 10px;"/></a>
   <a href="https://www.linkedin.com/in/lucassdesouza0/" target="_blank">  <img  alt="Linkedin Lucas Santos" width="22px" src="https://github.com/lucassdesouza0/me/blob/main/src/assets/icons/linkedin.svg" style="background: white; padding: 2px; border-radius: 20px; margin-right: 10px;"/></a>
