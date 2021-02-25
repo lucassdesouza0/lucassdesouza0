@@ -17,7 +17,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **[Mosaico](https://www.mosaico.com.br/)**
-- ⚙️ I use daily: `.js`, `.react`, `.nodejs`, `.html`, `.css`
+- ⚙️ I use daily: `.js`, `.react`, `.react-native`, `.mobile`, `.nodejs`, `.html`, `.css`
 - 🌍 I'm mostly active within the *JS/React Community*
 - 🌱 Learning all about *Open Source*
 - 💬 Ping me about *modern javascript, **performance, **seo, **development*
