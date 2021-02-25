@@ -8,7 +8,7 @@
 <br/>
 <hr/>
 
-🧍 **[Blog](https://lucassdesouza0.github.io/me/)**
+### 🧍 [Blog](https://lucassdesouza0.github.io/me/)
 
 <hr/>
 
