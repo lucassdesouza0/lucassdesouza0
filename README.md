@@ -23,5 +23,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassdesouza0&hide=TeX&show_icons=true&theme=dracula)
-
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassdesouza0&show_icons=true&theme=dracula)](https://github.com/lucassdesouza0/github-readme-stats)
