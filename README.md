@@ -10,9 +10,9 @@
 
 ### BIO
 
-- 🏢 I'm currently working at **[Mosaico](https://www.mosaico.com.br/)**
-- ⚙️ I use daily: `.typescript`, `.react`, `.next.js`, `.responsiveness`, `.html`, `.css`
-- 🧠 What i already used `.react-native`, `.nodejs`
+- 🏢 I'm currently working at **[Ambush](https://www.getambush.com.br/)**
+- ⚙️ I use daily: `.typescript`, `.react-native`, `.react`, `.next.js`, `.responsiveness`, `.html`, `.css`
+- 🧠 What i already used `.python`, `.nodejs`
 - 🌍 I'm mostly active within the *JS/React Community*
 - 🌱 Learning all about *Open Source*
 - 💬 Ping me about *modern javascript, **performance, **seo, **development*
